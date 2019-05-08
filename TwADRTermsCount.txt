@@ -1,0 +1,2220 @@
+10 AGEP
+10 Abdomen distended
+10 Abdomen, Acute
+10 Abdominal aortic bruit
+10 Abdominal discomfort
+10 Abdominal distress
+10 Abdominal pain lower
+10 Abdominal pain upper
+10 Abdominal tenderness
+10 Abnormal chest sounds
+10 Abnormal coordination
+10 Abnormal involuntary movements
+10 Abnormal platelets
+10 Abnormal sensation in eye
+10 Abrasion
+10 Abscess
+10 Absence Epilepsy
+10 Absence of sensation
+10 Accidental ingestion
+10 Accidental injury
+10 Accommodation disorder
+10 Acidosis
+10 Acidosis hyperchloraemic
+10 Acidosis, Respiratory
+10 Acneiform Eruptions
+10 Acquired deformity of finger
+10 Activation syndrome
+10 Actual Impaired Fluid Volume
+10 Acute Generalized Exanthematous Pustulosis
+10 Acute Kidney Insufficiency
+10 Acute bronchitis
+10 Acute cystitis
+10 Acute exacerbation of chronic bronchitis
+10 Acute glaucoma
+10 Acute intermittent porphyria
+10 Acute leukemia
+10 Acute liver injury
+10 Acute myocardial infarction
+10 Acute myocardial ischemia
+10 Acute onset pain
+10 Acute pulmonary oedema
+10 Acute pyelonephritis
+10 Acute retention of urine
+10 Acute schizophrenia
+10 Acute sinusitis
+10 Adams-Stokes Syndrome
+10 Addisonian crisis
+10 Adenocarcinoma
+10 Adenocarcinoma of the gastroesophageal junction
+10 Adenoma
+10 Adipose Tissue Atrophy
+10 Adjustment Disorders
+10 Administration site reaction
+10 Adnexitis
+10 Adrenal Gland Hyperfunction
+10 Adrenal cortex atrophy
+10 Adrenal gland hypofunction
+10 Adrenergic syndrome
+10 Advanced breast cancer
+10 Affect lability
+10 Aggressive reaction
+10 Agitation
+10 Agoraphobia
+10 Agranulocytosis
+10 Airway Obstruction
+10 Akathisia
+10 Akinesia
+10 Alanine aminotransferase increased
+10 Albumin low
+10 Albuminuria
+10 Alcohol abuse
+10 Alcohol problem
+10 Alcohol withdrawal syndrome
+10 Alkaline phosphatase raised
+10 Alkaline phosphatase serum increased
+10 Alkalosis
+10 Alkalosis, Respiratory
+10 Allergic Conjunctivitis
+10 Allergic oedema
+10 Allergic rhinitis (disorder)
+10 Allergic sinusitis
+10 Allergic urticaria
+10 Allergy aggravated
+10 Alopecia
+10 Alopecia Areata
+10 Alteration in patterns of urinary elimination
+10 Altered visual depth perception
+10 Alzheimer's Disease
+10 Amblyopia
+10 Amenorrhea
+10 Amnesia
+10 Amylase increased
+10 Anal Fissure
+10 Anaphylactic responses
+10 Anaphylactoid reaction
+10 Anaphylaxis
+10 Anasarca
+10 Anemia
+10 Anemia, Diamond-Blackfan
+10 Anemia, Hemolytic
+10 Anemia, Macrocytic
+10 Anemia, Megaloblastic
+10 Aneurysm
+10 Angina Pectoris
+10 Angina, Unstable
+10 Angioedema
+10 Angle Closure Glaucoma
+10 Anhedonia
+10 Anhidrosis
+10 Anisocoria
+10 Anisocytosis
+10 Ankle Fractures
+10 Ankle edema (finding)
+10 Anorgasmia
+10 Anosmia
+10 Anthrax disease
+10 Antibiotic-Associated Colitis
+10 Anticholinergic Syndrome
+10 Antinuclear antibody positive
+10 Anuria
+10 Aortic Aneurysm
+10 Aphasia
+10 Aphthous Stomatitis
+10 Aplastic Anemia
+10 Apnea
+10 Appendicitis
+10 Application site erythema
+10 Application site irritation
+10 Application site pain
+10 Application site pruritus
+10 Application site rash
+10 Application site reaction
+10 Apraxias
+10 Arachnoiditis
+10 Arrest of spermatogenesis
+10 Arterial insufficiency
+10 Arterial thrombosis
+10 Arteriosclerosis
+10 Arteritis
+10 Arthralgia
+10 Arthritis, Gouty
+10 Arthritis, Psoriatic
+10 Arthropathy
+10 Arthropod sting
+10 Articulation Disorders
+10 Ascites
+10 Aseptic Meningitis
+10 Aseptic necrosis
+10 Aspartate aminotransferase increased
+10 Aspiration Pneumonia
+10 Aspiration pneumonitis
+10 Asterixis
+10 Asthenia
+10 Asthenic conditions
+10 Asthenopia
+10 Asthma aggravated
+10 Asthma chronic
+10 Ataxia
+10 Atelectasis
+10 Athletic Injuries
+10 Atonic seizures
+10 Atrial Fibrillation
+10 Atrial Flutter
+10 Atrial Premature Complexes
+10 Atrial arrhythmia
+10 Atrial fibrillation and flutter
+10 Atrial tachycardia
+10 Atrioventricular Block
+10 Atrioventricular junctional rhythm
+10 Atrophic
+10 Atrophic Vaginitis
+10 Atrophic condition of skin
+10 Atrophy of breast
+10 Atypical lymphocyte observed
+10 Aura
+10 Auricular swelling
+10 Autoimmune hemolytic anemia
+10 Autonomic nervous system disorders
+10 Autonomic nervous system imbalance
+10 Azotemia
+10 BREAST PAIN FEMALE
+10 Back Injuries
+10 Back distress
+10 Bacteremia
+10 Bacterial Infections
+10 Bacterial Vaginosis
+10 Bacterial conjunctivitis
+10 Bacterial prostatitis
+10 Balanitis
+10 Balanoposthitis
+10 Basophilia
+10 Battery (assault)
+10 Bedwetting
+10 Behavior showing increased motor activity
+10 Benign Neoplasm
+10 Benign neoplasm of breast
+10 Berylliosis
+10 Bicarbonate level
+10 Biliary Colic
+10 Bilirubin total decreased
+10 Bilirubin total increased
+10 Bilirubin total low
+10 Bipolar I disorder
+10 Black hairy tongue
+10 Blackout - symptom
+10 Bladder dilatation
+10 Bladder discomfort
+10 Bladder dysfunction
+10 Bladder irritability
+10 Bladder pain
+10 Bleeding esophageal varices
+10 Bleeding gastric ulcer
+10 Bleeding tendency
+10 Bleeding time prolonged
+10 Blepharitis
+10 Blepharospasm
+10 Blind Vision
+10 Blindness of one eye (disorder)
+10 Blindness, Transient
+10 Blood Coagulation Disorders
+10 Blood alkaline phosphatase increased
+10 Blood amylase increased
+10 Blood and lymphatic system disorders
+10 Blood bicarbonate decreased
+10 Blood cholesterol increased
+10 Blood coagulation
+10 Blood cortisol decreased
+10 Blood creatine phosphokinase increased
+10 Blood creatinine increased
+10 Blood glucose decreased
+10 Blood glucose increased
+10 Blood in stool
+10 Blood lactate dehydrogenase increased
+10 Blood monocytes increased
+10 Blood osmolarity decreased
+10 Blood potassium increased
+10 Blood pressure diastolic increased
+10 Blood pressure systolic decreased
+10 Blood pressure systolic increased
+10 Blood prolactin increased
+10 Blood thyroid stimulating hormone increased
+10 Blood triglycerides increased
+10 Blood urea increased
+10 Blood uric acid increased
+10 Blood urine present
+10 Blunted affect
+10 Body height decreased
+10 Body odor
+10 Bone and joint infections
+10 Bone cancer metastatic
+10 Bone marrow depression
+10 Bradycardia
+10 Bradykinesia
+10 Bradyphrenia
+10 Brain Concussion
+10 Brain Edema
+10 Brain Injuries
+10 Brain Neoplasms
+10 Brain dysfunction
+10 Break-through bleeding (finding)
+10 Breast Carcinoma
+10 Breast Diseases
+10 Breast Feeding
+10 Breast Fibrocystic Disease
+10 Breast abscess
+10 Breast engorgement
+10 Breast swelling
+10 Breast tenderness
+10 Bronchial Spasm
+10 Bronchitis
+10 Bronchitis viral
+10 Bronchitis, Chronic
+10 Bronchoconstriction
+10 Bronchopneumonia
+10 Bronchospasm, Exercise-Induced
+10 Buccoglossal syndrome
+10 Buffalo hump
+10 Bulla
+10 Bullous conditions
+10 Bullous eruption
+10 Bullous pemphigoid
+10 Bundle-Branch Block
+10 Burning sensation
+10 CNS disorder
+10 Cachexia
+10 Calcinosis
+10 Call-Fleming syndrome
+10 Cancer pain
+10 Candida albicans infection
+10 Candidiasis
+10 Candidiasis of vagina
+10 Candidiasis, Vulvovaginal
+10 Candiduria
+10 Capillary Fragility
+10 Capillary fragility increased
+10 Carbohydrate craving
+10 Carbohydrate tolerance decreased
+10 Carbuncle
+10 Carcinogenicity
+10 Carcinoid Tumor
+10 Carcinoma
+10 Carcinoma breast stage IV
+10 Carcinoma of Male Breast
+10 Carcinoma of lung
+10 Cardiac Arrhythmia
+10 Cardiac Death
+10 Cardiac fibrillation
+10 Cardiomegaly
+10 Cardiomyopathies
+10 Cardiomyopathy, Dilated
+10 Cardiopulmonary Arrest
+10 Cardiotoxicity
+10 Cardiovascular Diseases
+10 Carditis
+10 Carpal Tunnel Syndrome
+10 Cartilage Diseases
+10 Cataplexy
+10 Cataract
+10 Cataract specified
+10 Cataract subcapsular
+10 Catatonia
+10 Catatonic reaction
+10 Cellulitis
+10 Central Nervous System Neoplasms
+10 Central Serous Chorioretinopathy
+10 Central nervous system depression (disorder)
+10 Cerebellar Diseases
+10 Cerebral Angiitis
+10 Cerebral Arteriosclerosis
+10 Cerebral Edema
+10 Cerebral Embolism
+10 Cerebral Hemorrhage
+10 Cerebral Infarction
+10 Cerebral Ischemia
+10 Cerebral Thrombosis
+10 Cerebral Vasospasm
+10 Cerebral arteritis
+10 Cerebrovascular Disorders
+10 Cerebrovascular accident
+10 Cervix Diseases
+10 Cervix haemorrhage uterine
+10 Change of bowel habit
+10 Cheilitis
+10 Chemical conjunctivitis
+10 Chemosis
+10 Chest discomfort
+10 Chest pain exertional
+10 Chest tightness
+10 Chest wall pain
+10 Chickenpox
+10 Chills
+10 Chloasma
+10 Choking
+10 Choking sensation
+10 Cholangitis
+10 Cholecystitis
+10 Cholelithiasis
+10 Cholestasis
+10 Cholesterol serum elevated
+10 Chondrodystrophy
+10 Choreoathetoid movements
+10 Choreoathetosis
+10 Chorioretinitis
+10 Choroiditis
+10 Chromatopsia
+10 Chromaturia
+10 Chromosomal mutation
+10 Chronic Lymphocytic Leukemia
+10 Chronic Obstructive Airway Disease
+10 Chronic active hepatitis
+10 Chronic suppurative otitis media
+10 Churg-Strauss Syndrome
+10 Circumoral paresthesia
+10 Clammy skin
+10 Clostridium difficile colitis
+10 Clumsiness
+10 Cluster Headache
+10 Cognition Disorders
+10 Cogwheel Rigidity
+10 Coinfection
+10 Cold feet
+10 Cold hands
+10 Cold symptoms
+10 Colitis
+10 Colitis, Ischemic
+10 Collagen Diseases
+10 Colonic Polyps
+10 Color blindness
+10 Comatose
+10 Common Cold
+10 Common wart
+10 Communicable Diseases
+10 Community acquired pneumonia
+10 Compartment syndromes
+10 Complete atrioventricular block
+10 Completed Suicide
+10 Complications of Diabetes Mellitus
+10 Conduction disorder of the heart
+10 Congenital Abnormality
+10 Congenital Heart Defects
+10 Congenital adrenal hyperplasia
+10 Congestive heart failure
+10 Conjunctival haemorrhage
+10 Conjunctival hyperemia
+10 Conjunctival oedema
+10 Conjunctivitis
+10 Connective Tissue Diseases
+10 Constipation
+10 Contact Dermatitis
+10 Contracture
+10 Contralateral breast cancer
+10 Contusions
+10 Convulsions aggravated
+10 Coordination disturbance
+10 Corneal Diseases
+10 Corneal Opacity
+10 Corneal Ulcer
+10 Corneal deposits
+10 Corneal epithelial staining pattern
+10 Corneal epithelium defect
+10 Corneal erosion
+10 Corneal infiltrates
+10 Corneal lesion
+10 Corneal ulcer marginal
+10 Coronary Artery Disease
+10 Coronary artery disease aggravated
+10 Coronary artery insufficiency
+10 Cough decreased
+10 Cough increased
+10 Coxalgia
+10 Cramps of lower extremities
+10 Creatine increased
+10 Creatine phosphokinase increased
+10 Creatinine increased
+10 Creatinine low
+10 Creatinine renal clearance decreased
+10 Cross resistance
+10 Crystal urine present
+10 Crystalluria
+10 Crystalluria calcium
+10 Cumulative Trauma Disorders
+10 Cushing Syndrome
+10 Cushingoid facies
+10 Cutaneous Candidiasis
+10 Cutaneous Melanoma
+10 Cutaneous hypersensitivity
+10 Cutaneous vasculitis
+10 Cyanosis
+10 Cyst of skin
+10 Cystic Fibrosis
+10 Cystitis
+10 Cystitis haemorrhagic
+10 Cytopenia
+10 Deafness
+10 Death (finding)
+10 Decreased Libido
+10 Decreased diastolic arterial pressure
+10 Decreased erythroid precursor production
+10 Decreased platelet count
+10 Deep Vein Thrombosis
+10 Degenerative polyarthritis
+10 Deglutition Disorders
+10 Dehydration
+10 Delayed gastric emptying
+10 Delayed orgasm
+10 Delirium
+10 Delusions
+10 Dementia
+10 Demyelinating polyneuropathy
+10 Dental caries
+10 Dependence
+10 Dependence physiological
+10 Depression aggravated
+10 Depression, Bipolar
+10 Depressive episode, unspecified
+10 Derealization
+10 Dermatillomania
+10 Dermatitis
+10 Dermatitis, Atopic
+10 Dermatitis, Phototoxic
+10 Dermatomycoses
+10 Dermatomyositis
+10 Diabetes Insipidus
+10 Diabetes Mellitus
+10 Diabetes Mellitus, Non-Insulin-Dependent
+10 Diabetes mellitus inadequate control
+10 Diabetes with coma (disorder)
+10 Diabetic
+10 Diabetic Ketoacidosis
+10 Diabetic Nephropathy
+10 Diabetic Neuropathies
+10 Diabetic foot infection
+10 Diabetic peripheral neuropathic pain
+10 Diabetic peripheral neuropathy
+10 Diarrhoea haemorrhagic
+10 Diastolic hypertension
+10 Difficulty focusing eyes
+10 Difficulty passing urine
+10 Difficulty walking
+10 Diplopia
+10 Disability
+10 Discharge from eye
+10 Discoloration of skin
+10 Disease Exacerbation
+10 Disease Progression
+10 Diseases of mitral valve
+10 Disk, Herniated
+10 Dislocations
+10 Disorder of eye
+10 Disorder of pericardium
+10 Disorder of the optic nerve
+10 Disorders of Porphyrin Metabolism
+10 Disseminated Intravascular Coagulation
+10 Distress
+10 Distress gastrointestinal
+10 Diuresis
+10 Diverticulitis
+10 Drooling
+10 Drug Eruptions
+10 Drug effect decreased
+10 Drug fever
+10 Drug intolerance
+10 Drug level decreased
+10 Drug level increased
+10 Drug seeking behavior
+10 Drug-Induced Liver Injury
+10 Dry cough
+10 Dry scalp
+10 Duodenal Ulcer
+10 Duodenitis
+10 Dysarthria
+10 Dysentery
+10 Dysequilibrium
+10 Dysesthesia
+10 Dysgeusia
+10 Dysgraphia
+10 Dyskinetic syndrome
+10 Dyslexia
+10 Dyslipidemias
+10 Dysmenorrhea
+10 Dysmyelopoietic Syndromes
+10 Dyspareunia
+10 Dyspepsia
+10 Dysphasia
+10 Dysphemia
+10 Dysphonia
+10 Dysphoria
+10 Dyspnea
+10 Dyspnea on exertion
+10 Dysuria
+10 Ear Diseases
+10 Ear Inflammation
+10 Ear and labyrinth disorders
+10 Ear discomfort
+10 Ear haemorrhage
+10 Ear pruritus
+10 Earache
+10 Early satiety
+10 Ecchymosis
+10 Eclampsia
+10 Edema
+10 Edema hands
+10 Edema of eyelid
+10 Edema of foot (finding)
+10 Edema of lower extremities
+10 Effusion
+10 Ejaculation delayed
+10 Ejaculation disorder
+10 Ejaculation failure
+10 Electrocardiogram PR prolongation
+10 Electrocardiogram PR shortened
+10 Electrocardiogram QRS complex prolonged
+10 Electrocardiogram QT corrected interval prolonged
+10 Electrocardiogram QT prolonged
+10 Electrocardiogram ST segment
+10 Electrocardiogram abnormal
+10 Electrocardiogram change
+10 Electroencephalogram abnormal
+10 Electrolyte abnormality
+10 Embolism
+10 Embolus
+10 Encephalopathies
+10 Endocarditis
+10 Endocrine System Diseases
+10 Endometrial Carcinoma
+10 Endometrial adenocarcinoma
+10 Endometrial disorder
+10 Endometriosis
+10 Endometritis
+10 Endophthalmitis
+10 Enlarged clitoris
+10 Enlargement abdomen
+10 Enteritis
+10 Enteritis ulcerative
+10 Enterocolitis
+10 Enterocolitis, Necrotizing
+10 Enterocolitis, Neutropenic
+10 Enuresis
+10 Enzyme Induction
+10 Enzyme abnormality
+10 Eosinopenia
+10 Eosinophil count abnormal
+10 Eosinophil count raised (finding)
+10 Eosinophilia
+10 Eosinophilic Pneumonia
+10 Epidermal necrosis
+10 Epidermolysis
+10 Epididymitis
+10 Epigastric discomfort
+10 Epigastric pain
+10 Epilepsies, Myoclonic
+10 Epilepsies, Partial
+10 Epilepsy
+10 Epistaxis
+10 Equilibration disorder
+10 Erection prolonged
+10 Eructation
+10 Eruptions
+10 Erysipelas
+10 Erythema
+10 Erythema Multiforme
+10 Erythema Nodosum
+10 Erythema facial
+10 Erythema multiforme minor
+10 Erythema multiforme severe
+10 Erythema of eyelid
+10 Esophageal Achalasia
+10 Esophageal Stenosis
+10 Esophageal motility disorders
+10 Esophageal spasm
+10 Esophagitis
+10 Essential Hypertension
+10 Essential Tremor
+10 Estrogen Effect
+10 Exaggerated startle response
+10 Exanthema
+10 Excessive bronchial secretion
+10 Excessive tearing
+10 Excitation cerebral
+10 Excitement emotion
+10 Excoriation
+10 Exfoliative conditions
+10 Exfoliative dermatitis
+10 Exfoliative rash
+10 Exophthalmos
+10 Exostoses
+10 Expressive language disorder
+10 Extrapyramidal Disorders
+10 Extrapyramidal symptoms
+10 Extravasation
+10 Extrinsic allergic alveolitis
+10 Eye Abnormalities
+10 Eye Hemorrhage
+10 Eye Infections
+10 Eye Injuries
+10 Eye irritation
+10 Eye oedema
+10 Eye swelling
+10 Eyelid exfoliation
+10 Eyelid margin crusting
+10 Eyelids pruritus
+10 FEMALE LACTATION
+10 FInding of estrangement
+10 Facial Paresis
+10 Facial bones fracture
+10 Facial edema
+10 Facial muscle spasm
+10 Facial paralysis
+10 Failure to gain weight
+10 Family stress
+10 Fasciitis, Plantar
+10 Fasting
+10 Fasting blood glucose increased
+10 Fat embolism (disorder)
+10 Fatal Outcome
+10 Fatigability
+10 Fatty Liver
+10 Fear (Mental Process)
+10 Fear of death
+10 Febrile Neutropenia
+10 Fecal Impaction
+10 Fecal Incontinence
+10 Feels hot
+10 Female Genital Diseases
+10 Female sexual dysfunction
+10 Femoral Neck Fractures
+10 Fertility female decreased
+10 Fetal Alcohol Syndrome
+10 Fetal Death
+10 Fibromyalgia
+10 First degree atrioventricular block
+10 Fixed drug eruption
+10 Fixed eruption
+10 Flank Pain
+10 Flat affect
+10 Fluid intake increased
+10 Fluid intake reduced
+10 Fluid overload
+10 Fluid retention
+10 Flushing
+10 Folic Acid Deficiency
+10 Folliculitis
+10 Food Poisoning
+10 Foot fracture
+10 Footdrop
+10 Foreign body sensation in eyes
+10 Formication
+10 Found dead (cause undetermined)
+10 Frequent bowel movements
+10 Function kidney decreased
+10 Function liver decreased
+10 Furuncle
+10 Furunculosis
+10 Gait abnormality
+10 Gait, Unsteady
+10 Galactorrhea not associated with childbirth
+10 Gamma globulins increased
+10 Gamma-glutamyltransferase increased
+10 Gangrene
+10 Gastric Adenocarcinoma
+10 Gastric irritation
+10 Gastric ulcer
+10 Gastritis
+10 Gastroenteritis
+10 Gastroesophageal reflux disease
+10 Gastrointestinal Diseases
+10 Gastrointestinal Hemorrhage
+10 Gastrointestinal candidiasis
+10 Gastrointestinal carcinoma
+10 Gastrointestinal cramps
+10 Gastrointestinal discomfort
+10 Gastrointestinal infection
+10 Gastrointestinal obstruction
+10 Gastrointestinal pain
+10 Gastrointestinal perforation
+10 Gastrointestinal symptom
+10 Gastrointestinal ulcer
+10 General disorders and administration site conditions
+10 General unsteadiness
+10 Generalized seizures
+10 Genital Diseases, Male
+10 Genital candidiasis
+10 Genital hemorrhage
+10 Genital hypoaesthesia
+10 Genital infection
+10 Genitourinary chlamydia infection
+10 Gilbert Disease (disorder)
+10 Gilles de la Tourette syndrome
+10 Gingival Hemorrhage
+10 Gingival Hyperplasia
+10 Gingival infection
+10 Gingivitis
+10 Glaucoma
+10 Glomerulonephritis
+10 Glossalgia
+10 Glossitis
+10 Glossopharyngeal Neuralgia
+10 Glucose increased
+10 Glucose low
+10 Glucose tolerance abnormal
+10 Glucose tolerance decreased
+10 Glycosuria
+10 Glycosylated haemoglobin increased
+10 Goiter
+10 Gonorrhea
+10 Gout
+10 Gout flare
+10 Granuloma
+10 Granuloma Annulare
+10 Granulomatous liver disease
+10 Gravitational oedema
+10 Growth retardation
+10 Guillain-Barre Syndrome
+10 Guilt
+10 Gynecomastia
+10 HIV Infections
+10 Haemoglobin decreased
+10 Hair discoloration
+10 Hair texture abnormal
+10 Halitosis
+10 Hallucinations, Auditory
+10 Hallucinations, Tactile
+10 Hallucinations, Visual
+10 Hallucinogen Persisting Perception Disorder
+10 Hand dermatitis
+10 Hand pain
+10 Hay fever
+10 Head discomfort
+10 Hearing Loss, Partial
+10 Hearing impairment
+10 Hearing problem
+10 Heart Block
+10 Heart Diseases
+10 Heat Stroke
+10 Hematemesis
+10 Hematochezia
+10 Hematocrit decreased
+10 Hematological Disease
+10 Hematoma
+10 Hematoma, Subdural
+10 Hematuria
+10 Hemiplegia
+10 Hemochromatosis
+10 Hemoglobinuria
+10 Hemoperitoneum
+10 Hemoptysis
+10 Hemorrhage
+10 Hemorrhage abnormal
+10 Hemorrhage of colon
+10 Hemorrhage of urethra
+10 Hemorrhagic colitis
+10 Hemorrhoids
+10 Hemospermia
+10 Henoch-Schoenlein Purpura
+10 Hepatic Coma
+10 Hepatic Veno-Occlusive Disease
+10 Hepatic cyst
+10 Hepatic enzyme increased
+10 Hepatic impairment
+10 Hepatic infiltration eosinophilic
+10 Hepatic necrosis
+10 Hepatitis
+10 Hepatitis acute
+10 Hepatitis cholestatic
+10 Hepatitis fulminant
+10 Hepatitis granulomatous
+10 Hepatitis symptom
+10 Hepatobiliary disease
+10 Hepatocellular Adenoma
+10 Hepatomegaly
+10 Hepatosplenomegaly
+10 Hepatotoxicity
+10 Hernia
+10 Herpes
+10 Herpes Simplex Infections
+10 Herpes Zoster Ophthalmicus
+10 Herpes zoster disease
+10 Hiccup
+10 High density lipoprotein decreased
+10 High density lipoprotein increased
+10 Hip Fractures
+10 Hirsutism
+10 Hoarseness
+10 Homicidal ideation
+10 Hordeolum
+10 Hormone level abnormal
+10 Hormone-refractory prostate cancer
+10 Hostility
+10 House dust allergy
+10 Human herpesvirus 6 infection
+10 Hydrocephalus
+10 Hyperacusis
+10 Hyperalgesia
+10 Hyperammonemia
+10 Hyperbilirubinemia
+10 Hypercalcemia
+10 Hypercalciuria
+10 Hyperchloraemia
+10 Hyperchlorhydria
+10 Hypercholesterolemia
+10 Hypercholesterolemia result
+10 Hyperemia
+10 Hyperesthesia
+10 Hyperglycemia
+10 Hyperhidrosis disorder
+10 Hyperkalemia
+10 Hyperkeratosis
+10 Hyperlipidemia
+10 Hypermagnesemia
+10 Hypernatremia
+10 Hyperphagia
+10 Hyperphosphatemia (disorder)
+10 Hyperpigmentation
+10 Hyperplasia
+10 Hyperprolactinemia
+10 Hyperpyrexia
+10 Hyperreflexia
+10 Hypersensitive syndrome
+10 Hypersensitivity
+10 Hypertension worsened
+10 Hypertension, Renovascular
+10 Hypertensive (finding)
+10 Hypertensive crisis
+10 Hypertensive disease
+10 Hyperthyroidism
+10 Hypertrichosis
+10 Hypertriglyceridemia
+10 Hypertrophic Cardiomyopathy
+10 Hyperuricemia
+10 Hyperventilation
+10 Hypervigilance
+10 Hypesthesia
+10 Hypoaesthesia facial
+10 Hypoaesthesia oral
+10 Hypocalcemia
+10 Hypochloremia (disorder)
+10 Hypocholesterolemia
+10 Hypochromic anemia
+10 Hypoesthesia eye
+10 Hypogammaglobulinemia
+10 Hypogeusia
+10 Hypoglycemia
+10 Hypohidrosis
+10 Hypokalemia
+10 Hypokalemic alkalosis
+10 Hypokinesia
+10 Hypomagnesaemia
+10 Hypomenorrhea
+10 Hyponatremia
+10 Hypophosphatemia
+10 Hypopigmentation disorder
+10 Hypoplastic anemia
+10 Hypopnea syndrome
+10 Hypoproteinemia
+10 Hyporeflexia
+10 Hyposmia
+10 Hyposthenuria
+10 Hypotension
+10 Hypotension, Orthostatic
+10 Hypotensive
+10 Hypothermia, natural
+10 Hypothyroidism
+10 Hypouricaemia
+10 Hypoventilation
+10 Hysteria
+10 Icterus
+10 Idiopathic thrombocytopenia
+10 Ileitis
+10 Ileus
+10 Illness (finding)
+10 Illusions
+10 Immobile
+10 Impacted cerumen
+10 Impaired cognition
+10 Impaired gastric emptying
+10 Impaired glucose tolerance
+10 Impaired healing
+10 Impetigo
+10 Inappropriate ADH Syndrome
+10 Incontinence
+10 Increase in blood pressure
+10 Increased Libido
+10 Increased bilirubin level (finding)
+10 Increased frequency of micturition
+10 Increased insulin requirement
+10 Increased prolactin level
+10 Increased tendency to bruise
+10 Induration
+10 Infarction
+10 Infection of ear
+10 Infection of kidney
+10 Infectious disorder of bronchus
+10 Infective cystitis
+10 Infective vaginitis
+10 Infertility
+10 Infestation
+10 Inflammatory Bowel Diseases
+10 Inflicted injury
+10 Influenza like illness
+10 Influenza-like symptoms
+10 Infusion site extravasation
+10 Infusion site reaction
+10 Infusion site reactions (HT)
+10 Inhalational anthrax
+10 Injection site hypersensitivity
+10 Injection site induration
+10 Injection site infection
+10 Injection site inflammation
+10 Injection site mass
+10 Injection site pain
+10 Injection site reaction
+10 Injection site swelling
+10 Injury wounds
+10 Instillation site irritation
+10 Intentional injury
+10 International normalised ratio abnormal
+10 International normalised ratio decreased
+10 International normalised ratio increased
+10 Intestinal Perforation
+10 Intolerant of heat
+10 Intraabdominal Infections
+10 Intracranial Hemorrhages
+10 Intracranial Hypertension
+10 Intraocular pressure increased
+10 Invasive Breast Carcinoma
+10 Inverted T wave
+10 Iridocyclitis
+10 Iritis
+10 Iron deficiency anemia
+10 Iron-Refractory Iron Deficiency Anemia
+10 Irritable Bowel Syndrome
+10 Ischaemic neuropathy
+10 Ischemia
+10 Ischial neuralgia
+10 Itching of eye
+10 Jaundice hepatocellular
+10 Jaundice, Obstructive
+10 Jaw pain
+10 Jaw stiffness
+10 Joint sprain
+10 Juvenile arthritis
+10 Keloid
+10 Keratitis
+10 Keratoconjunctivitis
+10 Keratoconjunctivitis Sicca
+10 Keratoconus
+10 Keratopathy
+10 Ketoacidosis
+10 Ketogenic Diet
+10 Ketonuria
+10 Ketosis
+10 Kidney Calculi
+10 Kidney Diseases
+10 Kidney Failure, Acute
+10 Kidney Failure, Chronic
+10 Kidney Neoplasm
+10 Kidney function abnormal
+10 Labile hypertension
+10 Laboratory test abnormal
+10 Labyrinthine disorder
+10 Labyrinthitis
+10 Lack of libido
+10 Lack of spontaneous speech
+10 Lacrimal Apparatus Diseases
+10 Lacrimal Duct Obstruction
+10 Lacrimation
+10 Lacrimation abnormal
+10 Lactic dehydrogenase activity increased
+10 Large intestine perforation
+10 Laryngeal Diseases
+10 Laryngeal Edema
+10 Laryngismus
+10 Laryngitis
+10 Latent tetany
+10 Learning Disabilities
+10 Leg edema
+10 Lennox-Gastaut syndrome
+10 Lens Opacities
+10 Lenticular pigmentation
+10 Lethargy
+10 Leukemia
+10 Leukemia, Myelocytic, Acute
+10 Leukocytoclastic vasculitis
+10 Leukocytosis
+10 Leukonychia
+10 Leukopenia
+10 Leukoplakia, Oral
+10 Leukorrhea
+10 Libido disorder
+10 Lichen Planus
+10 Lichen Simplex Chronicus
+10 Lichenoid Eruptions
+10 Lichenoid keratosis
+10 Ligament injury
+10 Limb discomfort
+10 Limb injury
+10 Limb paresis
+10 Linear atrophy
+10 Lingual-Facial-Buccal Dyskinesia
+10 Lip swelling
+10 Lipase increased
+10 Lipids abnormal
+10 Lipoma
+10 Liver Cirrhosis
+10 Liver Dysfunction
+10 Liver Failure
+10 Liver diseases
+10 Liver fatty deposition
+10 Liver function test normal
+10 Liver function tests abnormal finding
+10 Liver injury
+10 Lobular carcinoma in situ of breast
+10 Local reaction
+10 Localized desquamation
+10 Logorrhoea
+10 Long-term memory loss
+10 Loose stool
+10 Low Back Pain
+10 Low Cardiac Output
+10 Low density lipoprotein increased
+10 Lower respiratory tract infection
+10 Lumbar disc lesion
+10 Lung Diseases, Interstitial
+10 Lung Diseases, Obstructive
+10 Lung Neoplasms
+10 Lung diseases
+10 Lung infection
+10 Lung infiltration
+10 Lupus Erythematosus
+10 Lupus Erythematosus, Cutaneous
+10 Lupus Erythematosus, Discoid
+10 Lupus Erythematosus, Systemic
+10 Lupus-like syndrome
+10 Lymphadenitis
+10 Lymphadenopathy
+10 Lymphadenopathy cervical
+10 Lymphangitis
+10 Lymphatic Diseases
+10 Lymphedema
+10 Lymphocytoma cutis
+10 Lymphocytosis
+10 Lymphoma
+10 Lymphopenia
+10 Macromastia
+10 Macular Edema, Cystoid
+10 Macular degeneration
+10 Macular rash
+10 Macular retinal edema
+10 Maculopathy
+10 Major depressive disorder, single episode
+10 Malaise
+10 Male infertility
+10 Male sexual dysfunction
+10 Malignant Neoplasms
+10 Malignant neoplasm of breast
+10 Malignant neoplasm of female breast
+10 Malignant neoplasm of ovary
+10 Malignant neoplasm of pancreas
+10 Malignant neoplasm of prostate
+10 Malignant syndrome
+10 Malnutrition
+10 Mammary Neoplasms
+10 Manic episode
+10 Manic psychosis
+10 Marrow hyperplasia
+10 Mask-like facies
+10 Mass of body structure
+10 Massive Hepatic Necrosis
+10 Mastitis
+10 Mastitis acute female
+10 Mastodynia
+10 McCune-Albright Syndrome
+10 Mean blood pressure
+10 Mediastinal Diseases
+10 Medication residue
+10 Megacolon, Toxic
+10 Melancholia
+10 Melanoma
+10 Melanosis
+10 Melena
+10 Menarche
+10 Mendelson Syndrome
+10 Meniere Disease
+10 Meningism
+10 Meningitis
+10 Menometrorrhagia
+10 Menopausal symptoms
+10 Menopause
+10 Menorrhagia
+10 Menstruation Disturbances
+10 Menstruation delayed
+10 Menstruation irregular
+10 Mental Suffering
+10 Mental handicap
+10 Mental status changes
+10 Mesothelioma
+10 Metabolic Bone Disorder
+10 Metabolic Diseases
+10 Metabolic acidosis
+10 Metabolic alkalosis
+10 Metastatic Carcinoma
+10 Metastatic Neoplasm
+10 Metastatic gastric adenocarcinoma
+10 Metastatic malignant neoplasm to brain
+10 Metastatic squamous cell carcinoma
+10 Methemoglobinemia
+10 Metrorrhagia
+10 Miliaria
+10 Minimal Brain Dysfunction
+10 Miosis disorder
+10 Mixed liver injury
+10 Mobitz type I incomplete atrioventricular block
+10 Monocytosis
+10 Motion Sickness
+10 Motor retardation
+10 Mouth injury
+10 Movement Disorders
+10 Mucositis
+10 Multi-infarct dementia
+10 Multiple Myeloma
+10 Multiple Organ Failure
+10 Multiple Sclerosis
+10 Muscle Fatigue
+10 Muscle Hypertonia
+10 Muscle Rigidity
+10 Muscle contractions involuntary
+10 Muscle enzyme increased
+10 Muscle fibrosis
+10 Muscle hemorrhage
+10 Muscle hypotonia
+10 Muscle injury
+10 Muscle mass
+10 Muscle necrosis
+10 Muscle rupture
+10 Muscle tightness
+10 Muscular Atrophy
+10 Muscular fasciculation
+10 Musculoskeletal Diseases
+10 Musculoskeletal chest pain
+10 Musculoskeletal discomfort
+10 Musculoskeletal stiffness
+10 Mutism
+10 Myalgia
+10 Myasthenia Gravis
+10 Myasthenias
+10 Mycoses
+10 Mycosis Fungoides
+10 Mydriasis
+10 Myelitis
+10 Myelosuppression
+10 Myocardial Infarction
+10 Myocardial Ischemia
+10 Myocardial rupture
+10 Myocarditis
+10 Myoclonus
+10 Myoglobinuria
+10 Myopathy
+10 Myopia
+10 Myositis
+10 NEVUS, EPIDERMAL (disorder)
+10 Nail Diseases
+10 Nail changes
+10 Nail discoloration
+10 Nail toxicity
+10 Nails, Ingrown
+10 Narcolepsy
+10 Nasal Polyps
+10 Nasal congestion (finding)
+10 Nasal discomfort
+10 Nasal irritation
+10 Nasal septum deviation
+10 Nasopharyngitis
+10 Neck Injuries
+10 Neck Pain
+10 Neck stiffness
+10 Necrobiosis Lipoidica Diabeticorum
+10 Necrolysis epidermal
+10 Necrosis
+10 Necrotizing Arteritis
+10 Neonatal Abstinence Syndrome
+10 Neoplasms
+10 Nephritic syndrome
+10 Nephritis
+10 Nephritis, Interstitial
+10 Nephritis, Tubulointerstitial
+10 Nephrolithiasis
+10 Nephropathy toxic
+10 Nephrosis
+10 Nephrotic Syndrome
+10 Nephrotic Syndrome, Minimal Change
+10 Nerve root lesion
+10 Nervous system disorder
+10 Nervous tremulousness
+10 Nettle rash
+10 Neuralgia
+10 Neuritis
+10 Neuroblastoma
+10 Neurodermatitis
+10 Neuroleptic Malignant Syndrome
+10 Neuropathy
+10 Neurotoxicity Syndromes
+10 Neurotransmitter level altered
+10 Neutropenia
+10 Neutropenic infection
+10 Neutropenic sepsis
+10 Neutrophil count decreased
+10 Neutrophilia (disorder)
+10 Night Blindness
+10 Night cramps
+10 Night sweats
+10 Nipple discharge
+10 Nitrogen balance negative
+10 Nitrogen, non-protein, increased level result
+10 Nocturia
+10 Nodal arrhythmia
+10 Node-negative breast cancer
+10 Node-positive breast cancer
+10 Nodule
+10 Non-Small Cell Lung Carcinoma
+10 Non-cardiac chest pain
+10 Non-gonococcal urethritis (NGU)
+10 Noninfiltrating Intraductal Carcinoma
+10 Normocytic anemia
+10 Nosocomial pneumonia
+10 Nuchal Rigidity
+10 Nystagmus
+10 Obesity
+10 Obsessions
+10 Obsessive-Compulsive Disorder
+10 Obstruction
+10 Ocular Motility Disorders
+10 Ocular discomfort
+10 Ocular hyperemia
+10 Ocular toxicity
+10 Oculogyration
+10 Oculogyric crisis
+10 Odynophagia
+10 Oesophageal candidiasis
+10 Oesophageal stenosis acquired
+10 Oligomenorrhea
+10 Oligospermia
+10 Oliguria
+10 Onycholysis
+10 Onychomadesis
+10 Onychomycosis
+10 Ophthalmia, Sympathetic
+10 Opioid naive
+10 Opisthotonus
+10 Opportunistic Infections
+10 Oppositional
+10 Optic Neuritis
+10 Oral Hemorrhage
+10 Oral Ulcer
+10 Oral candidiasis
+10 Oral fungal infection
+10 Oral infection
+10 Oral pain
+10 Orchitis
+10 Orchitis noninfective
+10 Organ failure
+10 Orgasmic Disorder
+10 Orgasmic sensation decreased
+10 Orofacial oedema
+10 Oropharyngeal candidiasis
+10 Oropharyngeal pain
+10 Oropharyngeal swelling
+10 Orthopnea
+10 Orthostatic hypertension
+10 Oscillopsia
+10 Osteomalacia
+10 Osteomyelitis
+10 Osteopenia
+10 Osteophyte
+10 Osteoporosis
+10 Osteosclerosis
+10 Otitis Externa
+10 Otitis Media
+10 Otitis media acute
+10 Otosalpingitis
+10 Ototoxicity
+10 Ovarian Carcinoma
+10 Ovarian Cysts
+10 Ovarian Diseases
+10 Ovarian adenocarcinoma
+10 Overgrowth bacterial
+10 PRL increased
+10 Pain in buttock
+10 Pain in esophagus (finding)
+10 Pain in limb
+10 Pain in lower limb
+10 Pain in testicle
+10 Pain in urethra
+10 Pain, Postoperative
+10 Painful respiration
+10 Pallor
+10 Pancreatitis
+10 Pancreatitis acute
+10 Pancreatitis haemorrhagic
+10 Pancytopenia
+10 Papillary muscle rupture
+10 Papilledema
+10 Papule
+10 Paraesthesia oral
+10 Paranasal sinus hypersecretion
+10 Paraparesis
+10 Parasitic infection
+10 Paratyphoid Fever
+10 Paresis
+10 Paresthesia
+10 Parkinson Disease
+10 Parkinsonian Disorders
+10 Parkinsonian gait
+10 Paroxysmal nocturnal dyspnea
+10 Partial permanent deafness
+10 Partial pressure CO2 result
+10 Partial thromboplastin time increased (finding)
+10 Pathological Dilatation
+10 Pathological fracture
+10 Peeling of skin
+10 Peliosis Hepatis
+10 Pelvic Inflammatory Disease
+10 Pelvic Pain
+10 Pemphigus
+10 Penile Diseases
+10 Peptic Esophagitis
+10 Peptic Ulcer
+10 Perforation of nasal septum
+10 Performance anxiety
+10 Performance status decreased
+10 Pericardial effusion
+10 Pericarditis
+10 Periodontal Abscess
+10 Periodontal destruction
+10 Periodontitis
+10 Perioral Dermatitis
+10 Periorbital oedema
+10 Peripheral Neuropathy
+10 Peripheral Vascular Diseases
+10 Peripheral coldness
+10 Peripheral edema
+10 Peripheral ischaemia
+10 Peripheral motor neuropathy
+10 Peritonitis
+10 Perseveration
+10 Persistent Fetal Circulation Syndrome
+10 Personality Disorders
+10 Pertussis
+10 Petechiae
+10 Pharyngeal oedema
+10 Pharyngitis
+10 Pharyngitis streptococcal
+10 Pharyngolaryngeal pain
+10 Phlebitis
+10 Phlebitis superficial
+10 Phobia, Social
+10 Phobic anxiety disorder
+10 Photophobia
+10 Photopsia
+10 Photosensitivity of skin
+10 Phototoxicity
+10 Physiologic warmth
+10 Pigmentation Disorders
+10 Pituitary Neoplasms
+10 Plague
+10 Plague, Septicemic
+10 Plasma calcium decreased
+10 Plasma osmolality decreased
+10 Pleural effusion disorder
+10 Pleurisy
+10 Pneumonia
+10 Pneumonia due to Klebsiella pneumoniae
+10 Pneumonia, Interstitial
+10 Pneumothorax
+10 Polycythemia
+10 Polycythemia Vera
+10 Polydipsia
+10 Polymenorrhea
+10 Polymyositis
+10 Polyneuritis
+10 Polyneuropathy
+10 Polyposis, Gastric
+10 Polyps
+10 Polyuria
+10 Porphyria Cutanea Tarda
+10 Porphyria non-acute
+10 Porphyrias, Hepatic
+10 Positional Vertigo
+10 Post-Traumatic Stress Disorder
+10 Posterior rhinorrhea
+10 Postinfarction angina
+10 Postmenopausal haemorrhage
+10 Potassium Deficiency
+10 Potassium increased
+10 Potassium low
+10 Precocious Puberty
+10 Precordial pain
+10 Pregnancy
+10 Pregnancy test positive
+10 Premature Birth
+10 Premature Cardiac Complex
+10 Premature Ejaculation
+10 Premature ventricular contractions
+10 Premenstrual Tension
+10 Premenstrual dysphoric disorder
+10 Premenstrual syndrome
+10 Presbyopia
+10 Pressure of speech
+10 Presyncope
+10 Priapism
+10 Procedural pain
+10 Proctitis
+10 Prolonged menses
+10 Prostate cancer metastatic
+10 Prostate carcinoma
+10 Prostatic Diseases
+10 Prostatitis
+10 Prostatomegaly
+10 Proteinuria
+10 Prothrombin level abnormal
+10 Prothrombin level decreased
+10 Prothrombin level increased
+10 Prothrombin time shortened
+10 Protrusion tongue
+10 Proximal myopathy
+10 Prurigo
+10 Pruritus
+10 Pruritus Ani
+10 Pruritus NEC
+10 Pruritus Vulvae
+10 Pruritus generalised
+10 Pruritus genital
+10 Pseudolymphoma
+10 Pseudomembranous colitis
+10 Pseudotumor
+10 Pseudotumor Cerebri
+10 Psoriasis
+10 Psoriasis flare-up
+10 Psychomotor skills impaired
+10 Puerperal Disorders
+10 Pulmonary Edema
+10 Pulmonary Embolism
+10 Pulmonary Emphysema
+10 Pulmonary Eosinophilia
+10 Pulmonary Fibrosis
+10 Pulmonary Histiocytosis X
+10 Pulmonary Hypertension
+10 Pulmonary Infarction
+10 Pulmonary congestion
+10 Pulmonary hemorrhage
+10 Pulmonary toxicity
+10 Pulse irregular
+10 Punctate epithelial erosion
+10 Punctate keratitis
+10 Pure Red-Cell Aplasia
+10 Purging
+10 Purpura
+10 Purpura, Thrombocytopenic, Idiopathic
+10 Purpura, Thrombotic Thrombocytopenic
+10 Purpuric rash
+10 Pustular rash
+10 Pyelonephritis
+10 Pyoderma
+10 Pyuria
+10 QRS complex
+10 Radiation Pneumonitis
+10 Radiation Recall Dermatitis
+10 Radiation myelopathy
+10 Radius Fractures
+10 Raised liver function tests
+10 Rales
+10 Rash erythematous
+10 Rash follicular
+10 Rash maculo-papular
+10 Raynaud Phenomenon
+10 Reaction aggravation
+10 Reaction gastrointestinal
+10 Reactive hypoglycemia
+10 Recall phenomenon
+10 Rectal Diseases
+10 Rectal hemorrhage
+10 Rectal tenesmus
+10 Red blood cell disorders
+10 Red blood cell sedimentation rate increased
+10 Red cell aplasia
+10 Redness
+10 Redness of eye
+10 Reduced interest in usual activities
+10 Reflex, Abnormal
+10 Reflux gastritis
+10 Renal Artery Stenosis
+10 Renal Colic
+10 Renal Insufficiency
+10 Renal pain
+10 Renal tubular acidosis
+10 Renal vasculitis
+10 Reproductive system disorder
+10 Respiration Disorders
+10 Respiration abnormal
+10 Respiratory Depression
+10 Respiratory Distress Syndrome, Adult
+10 Respiratory Distress Syndrome, Newborn
+10 Respiratory Failure
+10 Respiratory Insufficiency
+10 Respiratory Tract Infections
+10 Respiratory arrest
+10 Respiratory rate decreased
+10 Respiratory sighs
+10 Respiratory tract infection viral
+10 Restless Legs Syndrome
+10 Reticulocytosis
+10 Retinal Detachment
+10 Retinal Diseases
+10 Retinal Hemorrhage
+10 Retrograde amnesia
+10 Retrograde ejaculation
+10 Retrosternal pain
+10 Reversible cerebral vasoconstriction syndrome
+10 Reversible ischemic neurologic deficit (R.I.N.D.) syndrome
+10 Rhabdomyolysis
+10 Rhabdomyosarcoma
+10 Rheumatic Fever
+10 Rheumatic Heart Disease
+10 Rhinitis
+10 Rhinitis perennial
+10 Rhinitis, Allergic, Perennial
+10 Rhinitis, Atrophic
+10 Rhinorrhea
+10 Rib Fractures
+10 Rickets
+10 Right bundle branch block
+10 Rigor - Temperature-associated observation
+10 Rosacea
+10 ST segment elevation (finding)
+10 Sacroiliitis
+10 Salivary gland enlargement
+10 Salmonella infections
+10 Salpingitis
+10 Sarcoidosis
+10 Sarcoma
+10 Scab
+10 Schizoaffective Disorder
+10 Schizophrenia
+10 Schizophrenia, Childhood
+10 Schizophrenic reaction
+10 Sciatica
+10 Scleral thinning
+10 Scleritis
+10 Scleroderma
+10 Scoliosis, unspecified
+10 Scotoma
+10 Scotoma, Scintillating
+10 Seborrheic dermatitis
+10 Secondary Infections
+10 Secondary adrenocortical insufficiency
+10 Secondary hypertension
+10 Secondary thrombocytopenia
+10 Secretion of saliva
+10 Seizures
+10 Seizures, Clonic
+10 Seizures, Focal
+10 Self-Injurious Behavior
+10 Self-injurious ideation
+10 Sensation of blood flow
+10 Sensation of foreign body
+10 Sensation of heaviness
+10 Sensation of warmth
+10 Sense of smell altered
+10 Sensitisation
+10 Sensorineural Hearing Loss (disorder)
+10 Sensory Discomfort
+10 Sensory Disorders
+10 Sensory neuropathy
+10 Sepsis
+10 Septicemia
+10 Serotonin Syndrome
+10 Serum Sickness
+10 Serum albumin low result
+10 Serum calcium increased
+10 Serum creatinine increased
+10 Serum potassium decreased
+10 Serum potassium increased
+10 Serum prolactin increased
+10 Serum sickness-like reaction
+10 Serum total protein decreased
+10 Sexual Dysfunction
+10 Sexually Transmitted Diseases
+10 Shock from electric current
+10 Shock, Cardiogenic
+10 Sialadenitis
+10 Sialorrhea
+10 Sicca Syndrome
+10 Sickle Cell Dactylitis
+10 Simple Partial Seizures
+10 Simple Pulmonary Eosinophilia
+10 Sinus Arrhythmia
+10 Sinus Tachycardia
+10 Sinus bradycardia
+10 Sinus congestion
+10 Sinus headache
+10 Sinusitis
+10 Sinusitis bacterial
+10 Skin Diseases, Bullous
+10 Skin Diseases, Infectious
+10 Skin Papilloma
+10 Skin Papule
+10 Skin Pigmentation
+10 Skin Ulcer
+10 Skin and subcutaneous tissue disorders
+10 Skin cold clammy
+10 Skin hemorrhages
+10 Skin hypertrophy
+10 Skin laceration
+10 Skin necrosis
+10 Skin nodule
+10 Skin odour abnormal
+10 Skin scaly
+10 Skin toxicity
+10 Skin warm
+10 Sleep Apnea Syndromes
+10 Sleep Apnea, Obstructive
+10 Sleep Disorders, Circadian Rhythm
+10 Sleep Talking
+10 Sluggishness
+10 Slurred speech
+10 Snoring
+10 Social disinhibition
+10 Soft Tissue Infections
+10 Soft stool (finding)
+10 Soft tissue disorder
+10 Solid tumour
+10 Somnambulism
+10 Somnolence neonatal
+10 Sore Throat
+10 Sore eye
+10 Sore mouth
+10 Sore to touch
+10 Speech Disorders
+10 Sperm count decreased
+10 Spermatogenesis abnormal
+10 Spinal compression fracture
+10 Spontaneous abortion
+10 Sprain
+10 Squamous cell carcinoma
+10 Squamous cell carcinoma of the head and neck
+10 Staphylococcal Infections
+10 Status Epilepticus
+10 Steatohepatitis
+10 Stereotypic Movement Disorder
+10 Steroid acne
+10 Steroid myopathy
+10 Steroid psychosis
+10 Steroid withdrawal syndrome
+10 Stevens-Johnson Syndrome
+10 Stinging Sensation
+10 Stomach Diseases
+10 Stomatitis
+10 Streptococcal Infections
+10 Streptococcal pneumonia
+10 Stress at work
+10 Stridor
+10 Stupor
+10 Stuttering
+10 Subarachnoid Hemorrhage
+10 Subconjunctival hemorrhage
+10 Sudden Cardiac Death
+10 Sudden death, cause unknown
+10 Sudden unexplained death in epilepsy
+10 Suicide attempt
+10 Sunburn
+10 Superinfection
+10 Suprapubic pain
+10 Supraventricular arrhythmia
+10 Supraventricular tachycardia
+10 Surgical intervention (finding)
+10 Sustained ventricular tachycardia
+10 Sweat Gland Diseases
+10 Swollen tongue
+10 Sympathomimetic Effect
+10 Syndrome screaming
+10 Synovitis
+10 Systolic hypertension
+10 Tachyarrhythmia
+10 Tachycardia
+10 Tachycardia, Ventricular
+10 Tachypnea
+10 Tandem gait test abnormal
+10 Tardive Dyskinesia
+10 Taste Disorders
+10 Taste bitter
+10 Taste peculiar
+10 Taste, Metallic
+10 Telangiectasis
+10 Temper tantrum
+10 Temporal Arteritis
+10 Tenderness of gums
+10 Tendinitis
+10 Tendinous contracture
+10 Tendon disorder
+10 Tendon rupture
+10 Tenosynovitis
+10 Tension
+10 Tension Headache
+10 Teratogenesis
+10 Testicular Diseases
+10 Testicular atrophy
+10 Tetany
+10 Therapeutic response decreased
+10 Thermal burn
+10 Thought retardation
+10 Throat irritation
+10 Throat tightness
+10 Thrombocytopenia
+10 Thrombocytopenic purpura
+10 Thrombocytosis
+10 Thromboembolic event
+10 Thromboembolism
+10 Thrombophlebitis
+10 Thromboplastin decreased
+10 Thrombosis
+10 Thyroid Nodule
+10 Thyroid function abnormal
+10 Thyroid function test abnormal
+10 Thyroiditis
+10 Thyrotropin high
+10 Tic, Motor
+10 Tic, Vocal
+10 Tietze's Syndrome
+10 Tinnitus
+10 Tissue Adhesions
+10 Toe walking
+10 Tolerance development
+10 Tongue Diseases
+10 Tongue discolouration
+10 Tongue oedema
+10 Tongue paralysis
+10 Tonic - clonic seizures
+10 Tonic-Clonic Epilepsy
+10 Tonsillitis
+10 Tooth Abnormalities
+10 Tooth Discoloration
+10 Tooth Diseases
+10 Tooth Erosion
+10 Tooth Injuries
+10 Tooth abscess
+10 Tooth caries aggravated
+10 Tooth infection
+10 Toothache
+10 Torsades de Pointes
+10 Torticollis
+10 Toxic Epidermal Necrolysis
+10 Tracheal Diseases
+10 Tracheitis
+10 Trachyonychia
+10 Traffic accident on public road
+10 Tranquillisation excessive
+10 Transaminases increased
+10 Transformed migraine
+10 Transfusion Reaction
+10 Transient Ischemic Attack
+10 Transitory deafness
+10 Trauma to the abdomen
+10 Traumatic fracture
+10 Traumatic haematoma
+10 Traumatic injury
+10 Trichinellosis
+10 Trigeminal Neuralgia
+10 Trismus
+10 Tuberculosis
+10 Tuberculosis, Meningeal
+10 Tuberculosis, Pulmonary
+10 Tumor pain
+10 Tumour flare
+10 Tympanic Membrane Perforation
+10 Typhoid Fever
+10 Ulcer haemorrhage
+10 Ulcer of esophagus
+10 Ulcer on tongue
+10 Ulcerative Colitis
+10 Ulcerative esophagitis
+10 Ulcerative stomatitis
+10 Ulna Fractures
+10 Underweight
+10 Unilateral deafness
+10 Unplanned pregnancy
+10 Unresponsive to stimuli
+10 Unspecified Abortion
+10 Unspecified circulatory system disorder
+10 Unspecified visual loss
+10 Upper Respiratory Infections
+10 Upper limb oedema
+10 Upper motor neurone lesion
+10 Uremia
+10 Ureteral Calculi
+10 Ureteral obstruction
+10 Urethritis
+10 Urgency of micturition
+10 Uric acid high
+10 Uric acid level increased
+10 Urinary Incontinence
+10 Urinary Retention
+10 Urinary hesitation
+10 Urinary tract infection
+10 Urination Disorders
+10 Urine abnormality
+10 Urine drug screen positive
+10 Urine flow decreased
+10 Urine odour abnormal
+10 Urine odour foul
+10 Urogenital Abnormalities
+10 Urogenital haemorrhage
+10 Urolithiasis
+10 Urologic Diseases
+10 Urticaria localised
+10 Uterine Cancer
+10 Uterine Cervicitis
+10 Uterine Corpus Sarcoma
+10 Uterine Fibroids
+10 Uterine Neoplasms
+10 Uterine Polyp
+10 Uterine fibroids enlarged
+10 Uterine hemorrhage
+10 Uterine spasm
+10 Uveitis
+10 Uveitis, Posterior
+10 Vaginal Discharge
+10 Vaginal Hemorrhage
+10 Vaginal dryness
+10 Vaginitis
+10 Vanishing bile duct syndrome
+10 Varicosity
+10 Variegate Porphyria
+10 Vascular Diseases
+10 Vascular Headaches
+10 Vasculitic rash
+10 Vasculitis
+10 Vasculitis necrotising
+10 Vasculitis, Leukocytoclastic, Cutaneous
+10 Vasodilation
+10 Vasospasm
+10 Vasovagal syncope
+10 Vein disorder
+10 Vein engorged (finding)
+10 Venoocclusive disease
+10 Venous Insufficiency
+10 Venous Thromboembolism
+10 Ventricular Dysfunction, Left
+10 Ventricular Fibrillation
+10 Ventricular Septal Defects
+10 Ventricular arrhythmia
+10 Ventricular bigeminy
+10 Ventricular hypertrophy
+10 Verbal repetition
+10 Vesiculobullous rash
+10 Vestibular Diseases
+10 Violent
+10 Viral diarrhoea
+10 Viral upper respiratory tract infection
+10 Virus Diseases
+10 Vision Disorders
+10 Visual Impairment
+10 Visual acuity reduced
+10 Visual colour distortions
+10 Visual disturbance
+10 Vitreous Detachment
+10 Vitreous disorder
+10 Vitreous floaters
+10 Vulvovaginal mycotic infection
+10 Vulvovaginal pruritus
+10 Vulvovaginitis
+10 WBC abnormal
+10 Waldenstrom Macroglobulinemia
+10 Water Intoxication
+10 Water retention (finding)
+10 Watery eyes
+10 Wave slowing
+10 Weepiness
+10 Wheezing
+10 Whiplash Injuries
+10 White blood cell count abnormal
+10 White blood cell count decreased
+10 White blood cell count increased (lab result)
+10 Withdrawal seizures
+10 Word finding difficulty (disorder)
+10 Wound Infection
+10 Wounds and Injuries
+10 Xerophthalmia
+10 Xerostomia
+30 Abdominal Cramps
+30 Abnormal ejaculation
+30 Abnormal vision
+30 Accidental overdose
+30 Ache wrists
+30 Acne
+30 Actual Inability To Taste
+30 Aggressive behavior
+30 Alcohol intolerance
+30 Altered Taste
+30 Ankylosing spondylitis
+30 Arm Pain
+30 Arthritis
+30 Bipolar II disorder
+30 Blood pressure alteration (finding)
+30 Bone Diseases
+30 Bone density decreased
+30 Bone necrosis
+30 Bursitis
+30 Chronic pain
+30 Cold sweat
+30 Compulsive Personality Disorder
+30 Coughing
+30 Crohn Disease
+30 Crying abnormal
+30 Depressed Level of Consciousness
+30 Depressive disorder
+30 Dermatitis acneiform
+30 Dermatitis, Allergic Contact
+30 Dizziness postural
+30 Dreaming excessive
+30 Dry skin
+30 Dryness of eye
+30 Emotional distress
+30 Epicondylitis
+30 Erection increased
+30 Excessive daytime somnolence
+30 Eye pain
+30 Feeling jittery
+30 Fever
+30 Flatulence
+30 Food-Drug Interactions
+30 Fracture
+30 Gagging
+30 Generalized Anxiety Disorder
+30 Genital pain
+30 Has tingling sensation
+30 Heart alternation
+30 Heart murmur
+30 Heartburn
+30 Hot flushes
+30 Hypertrophy
+30 Immune System Diseases
+30 Influenza
+30 Intestinal Obstruction
+30 Liver tenderness
+30 Major Depressive Disorder
+30 Manic
+30 Mood Disorders
+30 Muscle Spasticity
+30 Muscle Weakness
+30 Muscular stiffness
+30 Musculoskeletal Pain
+30 Nasal burning
+30 Nerve injury
+30 Nervousness
+30 Neurotic Disorders
+30 On examination - dry lips
+30 Opiate Addiction
+30 Panic
+30 Paraplegia
+30 Parotitis
+30 Post-traumatic pain
+30 Pustule
+30 Restlessness aggravated
+30 Retching
+30 Shock
+30 Stomach ache
+30 Stress
+30 Substance Withdrawal Syndrome
+30 Sudden death
+30 Suicidal behaviour
+30 Suicide
+30 Talkativeness
+30 Trembling
+30 Ulcer
+30 Unable to concentrate
+50 Abnormal digestive tract function
+50 Acute overdose
+50 Acute psychosis
+50 Animal bite
+50 Anxiety aggravated
+50 Back Pain
+50 Bad taste
+50 Bone pain
+50 Bulimia Nervosa
+50 Chest Pain
+50 Convulsive Seizures
+50 Cyst
+50 Dependence psychological
+50 Dermatologic disorders
+50 Disorientation
+50 Distractibility
+50 Drug Interactions
+50 Dry throat
+50 Early Awakening
+50 Eczema
+50 Erectile dysfunction
+50 Facial Pain
+50 Feeling of body temperature change
+50 Forgetfulness
+50 Generalized Spasms
+50 Hangover from any Alcohol or Other Drugs substance
+50 Heart failure
+50 Hypochondriasis
+50 Involuntary Movements
+50 Joint swelling
+50 Kidney Failure
+50 Knee pain
+50 Lack of drug effect
+50 Liver damage
+50 Local swelling
+50 Mania acute
+50 Memory Loss
+50 Memory impairment
+50 Migraine aggravated
+50 Muscle Cramp
+50 Muscle damage
+50 Painful erection
+50 Paranoid reaction
+50 Poor quality sleep
+50 Psychiatric symptom
+50 Rash generalised
+50 Rheumatoid Arthritis
+50 Sad mood
+50 Shivering
+50 Sleep Disorders
+50 Speech impairment
+50 Stiffness
+50 Sweating decreased
+50 Swelling face
+50 Tingling of extremity
+50 Upset stomach
+50 Vaginal itching
+50 Vertigo
+50 Yawning
+70 Abdominal bloating
+70 Ache
+70 Action Tremor
+70 Acute depression
+70 Anorexia
+70 Anxiety depression
+70 Asthma
+70 Blurred vision
+70 Bruxism
+70 Bulimia
+70 Decreased interest
+70 Diarrhea
+70 Disturbance in thinking
+70 Drug Allergy
+70 Feeling drunk
+70 Feeling suicidal (finding)
+70 Hypersomnia
+70 Hypomania
+70 Inflammation
+70 Joint injury
+70 Muscle twitch
+70 Night Terrors
+70 Palpitations
+70 Paralysed
+70 Personality change
+70 Pounding heart
+70 Psychotic Disorders
+70 Psychotic episode
+70 Shoulder Pain
+70 Skin irritation
+70 Skin thinness
+70 Suicidal tendency
+70 Sweating
+70 Syncope
+70 Urticaria
+90 Antisocial behavior
+90 Anxiety Disorders
+90 Anxiety attack
+90 Attention deficit hyperactivity disorder
+90 Binge eating disorder
+90 Confusion
+90 Depressive Symptoms
+90 Disturbance in sexual arousal
+90 Drug craving
+90 Feeling despair
+90 Foot pain
+90 Increased sweating
+90 Indifferent mood
+90 Joint stiffness
+90 Labored breathing
+90 Paranoia
+90 Respiratory distress
+90 Sneezing
+110 Abdominal Pain
+110 Consciousness abnormal
+110 Disturbance in attention
+110 Emotional disorder
+110 Nightmares
+110 Panic Disorder
+110 Sedated state
+110 Thirst
+110 Unconscious State
+130 Arthropod bite
+130 Migraine Disorders
+130 Psychotic depression
+130 Social fear
+130 Spasm
+130 Vivid dreams
+150 Abnormal dreams
+150 Allergic conditions
+150 Cardiac Arrest
+150 Decrease in appetite
+150 Drug Dependence
+150 Drug abuse
+150 Elevated mood
+150 Hunger
+150 Intoxication
+150 Lightheadedness
+150 Localized rash
+150 Mental disorders
+150 Obsessive compulsive behavior
+150 Swelling
+170 Abnormal behavior
+170 Euphoric mood
+170 Hallucinations
+170 Tremor
+190 Attention Deficit Disorder
+190 Attention concentration difficulty
+190 Vomiting
+210 Anger
+210 Depersonalization
+210 Loss of appetite (finding)
+210 Mental Depression
+210 Sleep disturbances
+230 Bipolar Disorder
+230 Exhaustion
+230 Increased appetite (finding)
+230 Middle insomnia
+230 Numbness
+230 Pain localised
+230 Panic Attacks
+230 Rage
+250 Daytime sleepiness
+250 Drug withdrawal syndrome
+290 Feeling abnormal
+290 Headache
+310 Fatigue
+310 Initial insomnia
+350 Abnormal mental state
+390 Mood swings
+410 Body Weight decreased
+410 Dizziness
+430 Depressed mood
+490 Wakefulness
+570 Pain
+590 Nausea
+590 Weight Gain
+610 Disturbance in mood
+610 Drowsiness
+630 Hyperactive behavior
+630 Irritable Mood
+670 Excitability
+690 Anxiety
+830 Energy increased
+910 Somnolence
+950 Withdrawal Symptoms
+1170 Sleeplessness

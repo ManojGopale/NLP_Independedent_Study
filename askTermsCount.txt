@@ -1,0 +1,1040 @@
+1 Joint pain
+1 Muscle Cramp
+1 Muscle injury
+1 Nervousness
+3 Cramp
+4 Disorder of muscle
+20 Abdominal discomfort
+20 Abdominal distension
+20 Abdominal hyperaesthesia
+20 Abdominal muscles tense
+20 Abdominal pressure
+20 Abnormal blood pressure
+20 Abnormal large bowel motility
+20 Abnormal liver function
+20 Abnormal muscle function
+20 Abnormal vision
+20 Abnormal weight gain
+20 Abrasion of eye region
+20 Acenaesthesia
+20 Acne
+20 Acute gastritis
+20 Acute renal failure
+20 Anger reaction
+20 Angina
+20 Ankle joint pain
+20 Ankle stiff
+20 Anxiety attack
+20 Aortic aneurysm
+20 Arthritis of hip
+20 Arthritis of shoulder region joint
+20 Arthritis/arthrosis
+20 Arthropathy of knee joint
+20 Atacand
+20 Autoimmune disease
+20 Avandia
+20 Bacterial sepsis
+20 Bad taste in mouth
+20 Basic learning problem
+20 Bed-ridden
+20 Bleeding from nose
+20 Blepharospasm
+20 Blind or low vision - one eye only
+20 Blocked ears
+20 Blood clot in eye
+20 Blood coagulation disorder
+20 Blood pressure alteration
+20 Bowel dysfunction
+20 Breast tenderness
+20 Bumping heart
+20 Bunion
+20 Buzzing in ear
+20 C/O - feeling depressed
+20 Calcaneal spur
+20 Capoten
+20 Cardiomyopathy
+20 Cardiovascular disease
+20 Cataract
+20 Celebrex 200 mg capsule: hard
+20 Cervical arthritis
+20 Cholestatic jaundice syndrome
+20 Chronic diarrhoea
+20 Chronic intractable pain
+20 Chronic rhinitis
+20 Clicking interphalangeal joint of toe
+20 Clicking knee
+20 Cluster headache
+20 Cold extremities
+20 Cold feet
+20 Cold foot
+20 Cold hands
+20 Compression neuropathy of trunk
+20 Congestion of nasal sinus
+20 Constantly crying
+20 Contracture of tendon of ankle region
+20 Contusion of hand
+20 Cozaar
+20 Cramping pain
+20 Crying associated with mood
+20 Cut of hand
+20 Daily headache
+20 Dark stools
+20 Decrease in appetite
+20 Decreased liver function
+20 Decreased muscle tone
+20 Decreased progesterone level
+20 Decreased range of shoulder movement
+20 Decreased testosterone level
+20 Decreased venous pressure
+20 Degenerative disorder of muscle
+20 Dental caries
+20 Depressed mood
+20 Derangement of meniscus
+20 Deseril
+20 Deteriorating renal function
+20 Difficulty chewing
+20 Difficulty dressing
+20 Difficulty getting out of a chair
+20 Difficulty moving hand
+20 Difficulty riding a bicycle
+20 Difficulty standing up
+20 Difficulty writing
+20 Diplopia
+20 Dislocation of joint
+20 Disorder of cardiac function
+20 Disorder of extremity
+20 Disorder of face
+20 Disorder of joint of shoulder region
+20 Disorder of nasal sinus
+20 Disorder of nervous system
+20 Disorder of skin
+20 Disorder of tendon
+20 Disorder of vision
+20 Distention of blood vessel
+20 Disturbance in physical behaviour
+20 Disturbance in speech rhythm
+20 Drinks wine
+20 Dropped beats - heart
+20 Dry hair
+20 Dysfunctional uterine bleeding
+20 Dysphagia
+20 Easy bruising
+20 Efexor-XR
+20 Ehlers-Danlos syndrome
+20 Elbow joint swelling
+20 Elevated cholesterol/high density lipoprotein ratio
+20 Emotional upset
+20 Enbrel
+20 Encephalopathy
+20 Endometriosis of uterus
+20 Epigastric discomfort
+20 Epipen Auto-Injector
+20 Epistaxis
+20 Eruption
+20 Excessive appetite
+20 Excessive day and night-time sleepiness
+20 Excessive weight loss
+20 Excitement
+20 Eye strain
+20 Ezetrol
+20 Facial spasm
+20 Fear of falling
+20 Feeling agitated 232 249
+20 Feeling angry
+20 Feeling bad
+20 Feeling content
+20 Feeling faint
+20 Feeling high
+20 Feeling hopeless
+20 Feeling lonely
+20 Feels everything is futile
+20 Finger joint locking
+20 Flank pain
+20 Foot eczema
+20 Foot joint stiff
+20 Fosamax
+20 Fragile self-esteem
+20 Frequent night waking
+20 Functional disorder of bladder
+20 Furuncle
+20 Gastric ulcer with perforation
+20 Gastrointestinal tract problem
+20 Generalised pruritus
+20 Gingival disease
+20 Gingival oedema
+20 Gingivitis
+20 Gland symptom
+20 Glossitis
+20 Glossopyrosis
+20 Goitre
+20 Haemorrhage of abdominal cavity structure
+20 Hand eczema
+20 Has delayed recall
+20 Hearing loss
+20 Heart failure
+20 Heart valve regurgitation
+20 Heat stroke
+20 Hepatomegaly
+20 High pain threshold
+20 Hypercholesterolaemia
+20 Hypomenorrhoea
+20 Iliotibial band friction syndrome
+20 Ill-at-ease
+20 Immobile
+20 Immunosuppression
+20 Impaired bed mobility
+20 Impairment level of vision
+20 Impending shock
+20 Increased albumin
+20 Increased belching
+20 Increased lactic acid level
+20 Increased lipid
+20 Increased pressure
+20 Increased thirst
+20 Infectious disease of lung
+20 Inflammation of ligament
+20 Influenza-like symptoms
+20 Injury of tendon of the rotator cuff of shoulder
+20 Intermittent pain
+20 Intolerant of cold
+20 Intolerant of heat
+20 Intra-abdominal haematoma
+20 Intracranial aneurysm
+20 Intracranial tumour
+20 Intraocular haemorrhage
+20 Involuntary movement
+20 Irregular bowel habits
+20 Irregular heart rate
+20 Irritability and anger
+20 Irritable bowel syndrome characterised by constipation
+20 Isolated memory skills
+20 Joint injury
+20 Joint laxity
+20 Joint swelling
+20 Joint tenderness
+20 Knee joint inflamed
+20 Knee joint painful on movement
+20 Labour pain
+20 Labyrinthitis
+20 Lacks confidence
+20 Language difficulty
+20 Large breast
+20 Lescol
+20 Lip swelling
+20 Liver function tests abnormal
+20 Loss of confidence
+20 Loss of equilibrium
+20 Loss of sense of smell
+20 Loss of voice
+20 Low back strain
+20 Lumbar arthritis
+20 Lumbar facet joint pain
+20 Lyrica
+20 Malaise and fatigue
+20 Malaria
+20 Male climacteric
+20 Malignant neoplasm of bone
+20 Malignant tumour of colon
+20 Malignant tumour of prostate
+20 Malignant tumour of spleen
+20 Maxalt
+20 Menstrual loss increasing
+20 Mental disorder
+20 Mental distress
+20 Mentally alert
+20 Metabolic syndrome X
+20 Metatarsalgia
+20 Mild cognitive disorder
+20 Moderate pain
+20 Mood disorder
+20 Morbid thoughts
+20 Morning stiffness - joint
+20 Motor neurone disease
+20 Muscle fasciculation
+20 Myalgia/myositis - multiple
+20 Naprosyn
+20 Nasal discharge
+20 Nasonex Aqueous
+20 Necrosis of anatomical site
+20 Neurological symptom
+20 Neuroma
+20 Neuroma of foot
+20 Night pain
+20 Nocturnal enuresis
+20 Noise intolerance
+20 Not getting enough sleep
+20 Obsessive-compulsive disorder
+20 Oedema of extremity
+20 Oedema of finger
+20 Oedema of hand
+20 Olmetec
+20 Ophthalmic migraine
+20 Orchidodynia
+20 Osteoarthritis of knee
+20 Osteoarthrosis of hand
+20 Otalgia
+20 Ovarian pain
+20 Oxycontin
+20 Pain in buttock
+20 Pain in cheek
+20 Pain in limb
+20 Pain in right arm
+20 Pain in the coccyx
+20 Pain of uterus
+20 Pain provoked by rest
+20 Pale complexion
+20 Palpitations - rapid
+20 Panadeine
+20 Paraesthesia of upper limb
+20 Parkinsonian tremor
+20 Parvovirus infection
+20 Periorbital oedema
+20 Peritonitis
+20 Photosensitivity
+20 Plavix
+20 Polyarthritis associated with another disorder
+20 Polymenorrhoea
+20 Polyneuropathy
+20 Poor balance
+20 Poor muscle tone
+20 Poor self-image
+20 Post traumatic osteoarthritis
+20 Pounding heart
+20 Premarin
+20 Premenstrual tension syndrome
+20 Pressure
+20 Prinivil
+20 Problem of visual accommodation
+20 Prolonged periods
+20 Propensity to adverse reactions to drug
+20 Proximal interphalangeal joint of finger pain
+20 Psychotic disorder
+20 Raised serum calcium level
+20 Rapid shallow breathing
+20 Reduced concentration
+20 Reduced visual acuity
+20 Reduction of bulk of muscle
+20 Renal calculus
+20 Repetitive strain injury
+20 Respiratory depression
+20 Retching
+20 Rhinocort Aqueous
+20 Right hemiparesis
+20 Right upper quadrant pain
+20 Right ventricular dilatation
+20 Rotator cuff syndrome
+20 Rupture of anterior cruciate ligament
+20 Rupture of muscle
+20 Rupture of tendon of lower leg and ankle
+20 Rupture tendon thigh
+20 Sacroiliac joint stiff
+20 Scab of skin
+20 Scleral icterus
+20 Senility
+20 Sense of smell impaired
+20 Sensitivity
+20 Seroquel
+20 Severe dehydration
+20 Severe vertigo
+20 Severe visual impairment
+20 Sexual dysfunction
+20 Shin splint
+20 Sinus pain
+20 Sjögren's syndrome
+20 Skin nodule
+20 Skin tenderness
+20 Sleep pattern disturbance
+20 Solaraze
+20 Spots on skin
+20 Stammering
+20 Stevens-Johnson syndrome
+20 Stress overload
+20 Stumbling gait
+20 Subdural haematoma
+20 Sudden visual loss
+20 Suicidal
+20 Sweating problem
+20 Swelling of body region
+20 Swelling of upper limb
+20 Swelling of wrist joint
+20 Swollen feet
+20 Symptom of ankle
+20 Tagamet
+20 Temporal lobe epilepsy
+20 Tenderness of upper limb
+20 Tendon contracture
+20 Tendonitis of foot
+20 Tendonitis of knee
+20 Thoughts of self harm
+20 Throbbing headache
+20 Thyroid disease
+20 Tightness in arm
+20 Tinea pedis
+20 Tires quickly
+20 Toe swelling
+20 Transient global amnesia
+20 Transient memory loss
+20 Traumatic blister of mouth
+20 Tunnel vision
+20 Type II diabetes mellitus uncontrolled
+20 Ulceration of colon
+20 Ulceration of gingivae
+20 Ulcerative colitis
+20 Unable to bend down
+20 Unable to control anger
+20 Unable to feed self
+20 Unable to get out of a chair
+20 Unable to initiate words
+20 Unable to lie down
+20 Unable to make a fist
+20 Unable to move all four limbs
+20 Unable to move hand
+20 Unable to run
+20 Unable to sit
+20 Unable to stand up
+20 Unable to walk down stairs
+20 Uncontrollable vomiting
+20 Unsteady when standing
+20 Upper respiratory tract infection
+20 Uterus problem
+20 Vaginospasm
+20 Vibration sensation present
+20 Viral upper respiratory tract infection
+20 Visual field scotoma
+20 Voltaren Emulgel
+20 Voltaren Rapid
+20 Voltaren Rapid 25 mg tablet: sugar-coated
+20 Warm hands
+20 Weakness of neck
+20 Wheezing
+20 White discolouration of skin
+20 Worried
+20 Wrist stiff
+20 Xanax
+20 Zantac
+20 atenolol
+20 bisoprolol
+20 caffeine
+20 capsaicin
+20 clonidine
+20 codeine + ibuprofen
+20 cyanocobalamin
+20 dextropropoxyphene + paracetamol
+20 diclofenac + misoprostol
+20 enalapril
+20 fenofibrate 145 mg tablet
+20 glibenclamide
+20 glipizide
+20 hydrochlorothiazide
+20 ibuprofen 5% gel
+20 lisinopril
+20 lysine
+20 melatonin
+20 meloxicam
+20 methylprednisolone
+20 naproxen
+20 olive oil
+20 omeprazole
+20 paracetamol + ibuprofen
+20 pseudoephedrine
+20 ramipril
+20 testosterone
+20 vitamin A
+20 zinc
+39 Feeling nervous
+40 Abdominal distension, gaseous
+40 Abdominal swelling
+40 Abdominal wind pain
+40 Absent minded
+40 Allergic condition
+40 Allergic reaction
+40 Alopecia
+40 Always sleepy
+40 Anaemia
+40 Andrews Tums Antacid
+40 Aphthous ulcer
+40 Arthralgia of multiple joints
+40 Arthralgia of the upper arm
+40 Arthritis of knee
+40 Arthropathy
+40 B Complex (Cenovis)
+40 Bad circulation - vasomotor change
+40 Blackout
+40 Blurring of visual image
+40 Burning epigastric pain
+40 Burning sensation of vagina
+40 Burping
+40 Bursitis of hip
+40 C-reactive protein abnormal
+40 Calf muscle weakness
+40 Chronic back pain
+40 Clammy skin
+40 Collapse
+40 Coma
+40 Common cold
+40 Congestion of throat
+40 Crying
+40 Cymbalta
+40 Decreased cholesterol esters
+40 Deep bruising
+40 Deep pain
+40 Degeneration of intervertebral disc
+40 Dementia
+40 Dependance on walking stick
+40 Derealisation
+40 Diastolic dysfunction
+40 Difficulty controlling anger
+40 Difficulty gripping
+40 Difficulty lifting
+40 Difficulty moving arm
+40 Difficulty standing
+40 Disorder of back
+40 Diverticulitis
+40 Dysmenorrhoea
+40 Dyssomnia
+40 Elbow stiff
+40 Erectile dysfunction
+40 Excessive and frequent menstruation
+40 Extreme exhaustion
+40 Eye pain
+40 Failure to lose weight
+40 Feeling intoxicated
+40 Feels hot
+40 Fine motor impairment
+40 Frequent defaecation
+40 Gallbladder disorder
+40 Gastrointestinal symptom
+40 General unsteadiness
+40 Haemorrhoids
+40 Hammer toe
+40 Hand joint pain
+40 Heavy feeling in eyelids
+40 Hepatic failure
+40 Hip stiff
+40 Hyperactive behaviour
+40 Hyperactive bowel sounds
+40 Hyperaemia of surface of eye
+40 Hypothyroidism
+40 Impatient character
+40 Injury of nervous system
+40 Jaundice
+40 Jaw pain
+40 Joint crepitus
+40 Lasix
+40 Low motivation
+40 Lyme disease
+40 Major depressive disorder
+40 Middle insomnia
+40 Mild depression
+40 Mild pain
+40 Miscarriage
+40 Moderate anxiety
+40 Mucosal numbness
+40 Musculoskeletal pain
+40 Nasal congestion
+40 Neuropathy of upper limb
+40 Nexium
+40 Nonspecific abdominal symptom
+40 Noten
+40 Oedema
+40 Oedema of lower extremity
+40 Pain in forearm
+40 Pain in left arm
+40 Pain in thumb
+40 Pain radiating to lumbar region of back
+40 Paraesthesia
+40 Phlebitis
+40 Pneumonia
+40 Polymyositis
+40 Poor peripheral circulation
+40 Productive cough
+40 Renal injury
+40 Restlessness
+40 Rhinitis
+40 Rupture of Achilles tendon
+40 Rupture of tendon
+40 Sedated
+40 Shoulder girdle weakness
+40 Shoulder stiff
+40 Shoulder tendonitis
+40 Shuffling gait
+40 Sight deteriorating
+40 Skin irritation
+40 Slow on legs
+40 Speech impairment
+40 Strain of calf muscle
+40 Swelling of lower limb
+40 Tendonitis AND/OR tenosynovitis of the elbow region
+40 Testosterone
+40 Tightness sensation
+40 Tongue swelling
+40 Toothache
+40 Toprol-XL
+40 Transient ischaemic attack
+40 Traumatic injury of skeletal muscle
+40 Trembles
+40 Trigeminal neuralgia
+40 Ulcer of oesophagus
+40 Unable to find words
+40 Unable to lift
+40 Unable to move
+40 Unable to move leg
+40 Unable to speak
+40 Unable to stand
+40 Urgent desire to urinate
+40 Watery eye
+40 White blood cell count abnormal
+40 Yellow skin
+40 Zestril
+40 amlodipine
+40 gemfibrozil
+40 magnesium
+40 oestradiol
+40 pethidine
+40 pyridoxine
+40 rabeprazole
+40 soy lecithin
+40 tramadol
+59 Injury of muscle
+60 Abnormal gait
+60 Aggression
+60 Agony
+60 Always hungry
+60 Ankle oedema
+60 Arthritis of hand
+60 Bipolar disorder
+60 Bleeding between periods
+60 Blister
+60 Blistering rash
+60 Body fluid retention
+60 Bone pain
+60 Cardiac arrhythmia
+60 Chest discomfort
+60 Choking
+60 Chronic fatigue syndrome
+60 Chronic pain
+60 Clumsiness
+60 Colitis
+60 Coronary arteriosclerosis
+60 Cramp in limb
+60 Craving for food or drink
+60 Dehydration
+60 Difficulty getting off a bed
+60 Digestive symptom
+60 Disability
+60 Discolouration of skin
+60 Disorder of eye
+60 Disorder of foot
+60 Endometriosis
+60 Facial palsy
+60 Falls
+60 Fear
+60 Hallucinations
+60 Heavy episode of vaginal bleeding
+60 Herpes zoster
+60 Hives
+60 Hot sweats
+60 Hungry
+60 Hyperaesthesia
+60 Hypochondriasis
+60 Increased liver function
+60 Intercostal myalgia
+60 Irregular heart beat
+60 Irregular menstruation
+60 Irritable bowel syndrome
+60 Lateral epicondylitis
+60 Lexapro
+60 Lipidil
+60 Lipitor 20 mg tablet: film-coated
+60 Lipitor 40 mg tablet: film-coated
+60 Mobic
+60 Muscle spasms of head AND/OR neck
+60 Myositis
+60 Neuralgia
+60 Neuropathy of lower limb
+60 Night sweats
+60 Non-smoker
+60 Numbness and tingling sensation of skin
+60 Numbness of face
+60 Numbness of limbs
+60 Overweight
+60 Pain in pelvis
+60 Pain in spine
+60 Paralysis
+60 Parkinsonism
+60 Peeling of skin
+60 Personality change
+60 Pruritus ani
+60 Raised low density lipoprotein cholesterol
+60 Renal impairment
+60 Scalp itchy
+60 Sensation of hot and cold
+60 Serum triglycerides raised
+60 Sinusitis
+60 Sleep deprivation
+60 Stiff limbs
+60 Swelling of hand
+60 Swelling of knee joint
+60 Swollen nasal mucosa
+60 Taste sense altered
+60 Tear of meniscus of knee
+60 Tingling of skin
+60 Type 1 diabetes mellitus
+60 Ulcer
+60 Unable to walk up step
+60 Unsteady when walking
+60 Urinary frequency
+60 Urinary incontinence
+60 Urinary tract infection
+60 Urine: dark/concentrated
+60 Visual impairment
+60 Wrist joint pain
+60 codeine
+60 glucosamine
+60 metoprolol
+60 misoprostol
+60 morphine
+60 paracetamol + codeine
+60 potassium
+60 pravastatin
+80 Abdominal bloating
+80 Achilles tendonitis
+80 Adhesive capsulitis of shoulder
+80 Alzheimer's disease
+80 Aphasia
+80 Bronchitis
+80 Carpal tunnel syndrome
+80 Cold sweat
+80 Contusion
+80 Diovan
+80 Eczema
+80 Erythema
+80 Erythema of skin
+80 Feeling empty
+80 Feeling tired
+80 Gastric ulcer
+80 Hand joint stiff
+80 Heavy feeling
+80 Hepatic trauma
+80 Hoarse
+80 Hunger pain
+80 Hypertonia
+80 Impaired mobility
+80 Incoordination
+80 Increased appetite
+80 Increased creatine kinase level
+80 Infection
+80 Infective cystitis
+80 Initial insomnia
+80 Intervertebral disc prolapse
+80 Loss of interest
+80 Low blood pressure reading
+80 Lower abdominal pain
+80 Malignant neoplasm of brain
+80 Mastalgia
+80 Menstrual spotting
+80 Mentally vague
+80 Muscle strain
+80 Musculoskeletal chest pain
+80 Myalgia/myositis - upper arm
+80 Numbness of finger
+80 Osteoarthritis
+80 Pain in left leg
+80 Pancreatitis
+80 Paraesthesia of foot
+80 Photosensitisation due to sun
+80 Postmenopausal bleeding
+80 Rectal haemorrhage
+80 Respiratory tract congestion
+80 Sciatica
+80 Sensation of heaviness in limbs
+80 Suicidal thoughts
+80 Swallowing problem
+80 Swelling of finger
+80 Swollen legs
+80 Unable to eat
+80 Unable to move arm
+80 Urinary retention
+80 Weakness of back
+80 Weakness of hand
+80 aspirin
+80 paracetamol
+100 Abnormal dreams
+100 Acute pain
+100 Arthralgia of the lower leg
+100 Bell's palsy
+100 Bizarre dreams
+100 Bursitis
+100 Degenerative disease of the central nervous system
+100 Difficulty walking up stairs
+100 Discomfort
+100 Dysphonia
+100 Elbow joint pain
+100 Feeling agitated
+100 Haematochezia
+100 Impaired cognition
+100 Limitation of joint movement
+100 Lipex
+100 Loss of taste
+100 Malignant neoplastic disease
+100 Nasal sinus problem
+100 Nightmares
+100 Numbness of upper limb
+100 Reflux
+100 Renal pain
+100 Rib pain
+100 Shoulder joint pain
+100 Stabbing pain
+100 Swollen knee
+100 Syncope
+100 Tenalgia
+100 Tightness in throat
+100 alpha tocopherol
+100 atorvastatin
+120 Asthma
+120 Disorientated
+120 Excessive sweating
+120 Facial swelling
+120 Feeling unhappy
+120 Flatulence, eructation and gas pain
+120 Generalised acute body pains
+120 Hand cramps
+120 Knee stiff
+120 Lack of libido
+120 Lopid
+120 Myalgia/myositis -pelvis/thigh
+120 Neurontin
+120 Norvasc
+120 Numbness of foot
+120 Numbness of toe
+120 Pain in finger
+120 Pain in wrist
+120 Pain provoked by walking
+120 Pulse fast
+120 Ringing in ear
+120 Sharp pain
+120 Steatosis of liver
+120 Thoracic back pain
+120 Type 2 diabetes mellitus
+120 Unable to climb stairs
+120 Weight increased
+120 Weight loss
+120 Zoloft
+120 cortisone
+120 prednisone
+140 Chill
+140 Cramp in lower leg
+140 Dry eyes
+140 Generally unwell
+140 Lack of stamina
+140 Loose stool
+140 Muscle tension
+140 Myalgia/myositis - forearm
+140 Nerve injury
+140 Pain in throat
+140 Panic attack
+140 Random blood sugar raised
+140 Reduced mobility
+140 Stomach problem
+140 Swollen ankle
+140 Tight chest
+140 ezetimibe + simvastatin
+160 Burning pain
+160 Difficulty swallowing
+160 Fever
+160 Haematuria
+160 Impaired exercise tolerance
+160 Increased venous pressure
+160 Kidney disease
+160 Muscle rigidity
+160 Myalgia/myositis - shoulder
+160 Numbness of lower limb
+160 Paraesthesia of hand
+160 Plantar fasciitis
+160 Renal failure
+160 Rhabdomyolysis
+160 Severe depression
+160 Slurred speech
+160 Spasm of back muscles
+160 Stiff legs
+160 Sweating
+160 Tachycardia
+160 Tylenol
+160 Urine looks dark
+160 Uterine spasm
+180 Advil
+180 Aleve
+180 Delusional disorder
+180 Dry skin
+180 Flushing
+180 Foot swelling
+180 Heavy legs
+180 Hypertension
+180 Influenza
+180 Joint stiffness
+180 Lethargy
+180 Limping
+180 Paraesthesia of lower extremity
+180 Rheumatoid arthritis
+180 Unable to get off a bed
+180 fish oil natural
+200 Aptyalism
+200 Cough
+200 Difficulty breathing
+200 Forgetful
+200 Gout
+200 Heartburn
+200 Heel pain
+200 Inflammatory disorder
+200 Itching of skin
+200 Loss of appetite
+200 Menorrhagia
+200 Pain provoked by movement
+200 Serum creatinine raised
+200 Spasmodic movement
+200 Stress
+200 Unable to balance
+200 omega-3-acid ethyl esters-90
+220 Burning feet
+220 Hypersomnia
+220 Illness
+220 Liver enzymes abnormal
+220 Lupus erythematosus
+220 Menopause present
+220 Menstrual cramp
+220 Moody
+220 Numbness of hand
+220 Pain in toe
+220 Poor concentration
+220 Restless legs
+220 Stiff neck
+220 diclofenac
+240 Abdominal colic
+240 Celebrex
+240 Finding of increased blood pressure
+240 Indigestion
+240 Parkinson's disease
+240 Thigh pain
+240 ibuprofen
+260 Cerebrovascular accident
+260 Cramp in foot
+260 Multiple sclerosis
+260 Palpitations
+260 Peripheral neuropathy
+260 Tendonitis
+260 Tired all the time
+260 Unable to think clearly
+280 Acid reflux
+280 Constant pain
+280 Cramp in calf
+280 Drowsy
+280 Excruciating pain
+280 Migraine
+280 Neuropathy
+280 Pain in elbow
+280 Serum cholesterol raised
+280 simvastatin
+300 Amyotrophic lateral sclerosis
+300 Confusion
+300 Hand pain
+300 Liver disease
+300 Spasm
+300 fenofibrate
+320 Loss of motivation
+320 Malaise
+320 Mood swings
+320 Swelling
+320 Tinnitus
+340 Diabetes mellitus
+340 ezetimibe
+360 Fibromyalgia
+360 Impairment of balance
+360 Muscle twitch
+360 Myalgia/myositis - lower leg
+360 Vomiting
+380 Ankle pain
+380 Exhaustion
+380 Tremor
+400 Crestor
+400 Feeling irritable
+400 Flatulence/wind
+400 Vaginal bleeding
+420 Dyspnoea
+420 Heart disease
+420 Reduced libido
+420 Tiredness symptom
+420 Weight gain
+440 Cannot sleep at all
+440 Charleyhorse
+440 Increased cholesterol esters
+440 Itching
+440 Lightheadedness
+440 ascorbic acid
+460 Abdominal pain
+460 Burning sensation
+460 Lack of energy
+460 Unable to concentrate
+460 Visual disturbance
+480 Bleeding
+480 Difficulty sleeping
+480 Pain in calf
+500 Numbness
+500 Pain in upper limb
+500 Stiffness
+500 Unable to walk
+500 Vertigo
+520 Upset stomach
+540 Influenza-like illness
+540 Muscle fatigue
+540 Rash
+540 Voltaren
+560 Stomach cramps
+600 Chest pain
+620 Pravachol
+640 Poor short-term memory
+676 Myopathy
+680 Bloating symptom
+700 Constipation
+720 Anxiety
+720 Low back pain
+740 Blurred vision - hazy
+740 Generalised aches and pains
+740 Memory impairment
+760 Mentally dull
+760 Muscle atrophy
+760 Tired
+840 ubidecarenone
+920 Myocardial infarction
+960 Loss of hair
+960 Zocor
+1020 Arthritis
+1020 Neck pain
+1060 Weakness of limb
+1100 Foot pain
+1140 Stomach ache
+1200 Shoulder pain
+1240 Arthrotec
+1260 Knee pain
+1260 Nausea
+1280 Walking disability
+1340 Dizziness
+1400 Hip pain
+1420 Insomnia
+1440 Amnesia
+1460 Cramp in lower limb
+1460 Muscle weakness
+1460 Pins and needles
+1500 Diarrhoea
+1680 Backache
+1680 Pain in lower limb
+2140 Asthenia
+21460 Lipitor
+2300 Headache
+2360 Excessive upper gastrointestinal gas
+2380 Depression
+2719 Arthralgia
+2776 Muscle cramp
+2800 Fatigue
+3900 Severe pain
+5300 Myalgia
+7420 Pain
